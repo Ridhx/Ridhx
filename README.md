@@ -13,7 +13,7 @@
 <h3>You can find me here</h3>
 <p>
 <a href="https://github.com/Ridhx" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-<a href="https://www.youtube.com/@nanooch" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-f50505.svg?&style=for-the-badge&logo=Youtube&logoColor=white" /></a>
+<a href="https://www.youtube.com/@xridhzz" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-f50505.svg?&style=for-the-badge&logo=Youtube&logoColor=white" /></a>
 <a href="https://wa.me/6285751561624" target="_blank"><img alt="Whatsapp" src="https://img.shields.io/badge/Whatsapp-07d600.svg?&style=for-the-badge&logo=Whatsapp&logoColor=white" /></a>
 </p>
 
